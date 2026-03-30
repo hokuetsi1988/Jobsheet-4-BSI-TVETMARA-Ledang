@@ -23,9 +23,17 @@ surely, this will be easy if youre into this course for long enough. if it didn'
 ### 🖼️ Schematics
 If youre confused on how to wire them, check this section. Physical setup and wiring diagram are here. 
 
-(Physical Setup)
+Physical setup
+![20260316_034214](https://github.com/user-attachments/assets/f90ecdf9-c4bc-43ee-916d-202003d94f1f)
 
-(Wiring Diagram)
+
+
+
+Wiring Diagram
+
+
+<img width="731" height="543" alt="schematic js4 bsi" src="https://github.com/user-attachments/assets/018f849e-b403-4c26-a117-b4a730218cdc" />
+
 
 
 ### 🌐 Controlling the sensors and pin in serial monitor
@@ -35,9 +43,7 @@ Now this is pretty simple, we have a 2 output components namely the board led an
 
 Opening the serial monitor at 115200 baudrate will show what number will trigger what component. So keying in respective number should supposedly do as what we programmed it to be. Dont spin your head too much on the last 2 sentences, I thought of providing you with a tiktok video would be more self explanatory.
 
-> Video link ⬇️
-
-(Post it on tiktok i guess)
+[Video link]((link here!!!)
 
 ### 🌐 Setup Blynk on Desktop and Mobile Device
 If you followed my previous video on JS3 about monitoring the DHT sensor via Blynk, you might already know how to setup the template, datastream, devices and dashboard in Blynk. 
