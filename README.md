@@ -43,7 +43,7 @@ Now this is pretty simple, we have a 2 output components namely the board led an
 
 Opening the serial monitor at 115200 baudrate will show what number will trigger what component. So keying in respective number should supposedly do as what we programmed it to be. Dont spin your head too much on the last 2 sentences, I thought of providing you with a tiktok video would be more self explanatory.
 
-[Video link]((link here!!!)
+[Video link](https://www.tiktok.com/@areeeeerererere/video/7629053792318803201)
 
 ### 🌐 Setup Blynk on Desktop and Mobile Device
 If you followed my previous video on JS3 about monitoring the DHT sensor via Blynk, you might already know how to setup the template, datastream, devices and dashboard in Blynk. 
