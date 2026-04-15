@@ -43,22 +43,21 @@ Now this is pretty simple, we have a 2 output components namely the board led an
 
 Opening the serial monitor at 115200 baudrate will show what number will trigger what component. So keying in respective number should supposedly do as what we programmed it to be. Dont spin your head too much on the last 2 sentences, I thought of providing you with a tiktok video would be more self explanatory.
 
-[Video link](https://www.tiktok.com/@areeeeerererere/video/7629053792318803201)
+[Video Link for Task 2 Part A](https://www.tiktok.com/@areeeeerererere/video/7629053792318803201)
 
 ### 🌐 Setup Blynk on Desktop and Mobile Device
 If you followed my previous video on JS3 about monitoring the DHT sensor via Blynk, you might already know how to setup the template, datastream, devices and dashboard in Blynk. 
 
 You didnt? Thats completely fine. Even though the process is pretty much the same, I did a video on how to do it. We will be using different source code though, open the file named "BSI__JS4_Task3_PartC"
 
-> Video link ⬇️
+[Video Link for Task 2 Part B](https://www.tiktok.com/@areeeeerererere/video/7629056716520312081)
 
-(Maybe this one post on youtube)
 
 ### 🌐 Check the results
 Alright, were almost there. Again, theres another video I made on result checking after setting up Blynk. So do check it out for clarity
-> Video link ⬇️
 
-(This one should be on youtube too or idk lol)
+[Video link for Task 2 Part C]()
+
 
 > Things to note in this section ❗
 
