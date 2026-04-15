@@ -56,7 +56,7 @@ You didnt? Thats completely fine. Even though the process is pretty much the sam
 ### 🌐 Check the results
 Alright, were almost there. Again, theres another video I made on result checking after setting up Blynk. So do check it out for clarity
 
-[Video link for Task 2 Part C]()
+[Video link for Task 2 Part C](https://www.tiktok.com/@areeeeerererere/video/7629072165857512720)
 
 
 > Things to note in this section ❗
